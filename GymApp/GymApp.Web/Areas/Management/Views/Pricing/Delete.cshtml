@@ -1,0 +1,22 @@
+﻿@model Pricing
+
+<h1>Paket Silme</h1>
+
+<p>@Model.Title</p>
+
+<p>@Model.Description</p>
+<p>@Model.Price</p>
+<p>@Model.StartTime</p>
+<p>@Model.StopTime</p>
+<p>@Model.MonthCount</p>
+<p>@Model.DiscountRate</p>
+<p>@Model.CreatedDate</p>
+<p>@Model.UpdatedDate</p>
+
+<h4>Silmek istediğinize emin misiniz?</h4>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="Sil" class="btn btn-danger" />
+
+</form>

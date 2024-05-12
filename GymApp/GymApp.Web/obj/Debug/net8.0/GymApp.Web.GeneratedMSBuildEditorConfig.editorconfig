@@ -1,0 +1,223 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GymApp.Web
+build_property.RootNamespace = GymApp.Web
+build_property.ProjectDir = C:\Users\Esra\Desktop\PİKSEL AKADEMİ\PİKSEL AKADEMİ 2.KISIM\GymApp\GymApp.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Esra\Desktop\PİKSEL AKADEMİ\PİKSEL AKADEMİ 2.KISIM\GymApp\GymApp.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xBYm91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDYXRlZ29yeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDYXRlZ29yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Contact/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb250YWN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Contact/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb250YWN0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Contact/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb250YWN0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb250YWN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb3Vyc2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb3Vyc2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb3Vyc2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xDb3Vyc2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Franchise/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xGcmFuY2hpc2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Franchise/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xGcmFuY2hpc2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Franchise/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xGcmFuY2hpc2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Franchise/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xGcmFuY2hpc2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/MainPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xNYWluUGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Pricing/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xQcmljaW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Pricing/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xQcmljaW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Pricing/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xQcmljaW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Pricing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xQcmljaW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Shared/_Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX0hlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Shared/_Script.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX1NjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX1NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Shared/_Switcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX1N3aXRjaGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Trainer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xUcmFpbmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Trainer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xUcmFpbmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Trainer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xUcmFpbmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Trainer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xUcmFpbmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/Trainer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xUcmFpbmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Areas/Management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlbWVudFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/_Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/_Offcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PZmZjYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/_Script.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esra/Desktop/PİKSEL AKADEMİ/PİKSEL AKADEMİ 2.KISIM/GymApp/GymApp.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1yeuhcsefg

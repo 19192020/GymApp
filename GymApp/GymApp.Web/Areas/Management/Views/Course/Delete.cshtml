@@ -1,0 +1,16 @@
+﻿@model Course
+
+<h1>Kurs Silme</h1>
+
+@* <p><strong>Kategori:</strong> @Model.Category.Title</p>
+<p><strong>Eğitmen Adı:</strong>@Model.Trainer.FullName</p> *@
+<strong>Eğitmen Adı:</strong>@Model.Trainer.FullName</p>
+<p><strong>Oluşturulma Tarihi:</strong> @Model.CreatedDate</p>
+<p><strong>Güncellenme Tarihi:</strong> @Model.UpdatedDate</p>
+
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="Sil" class="btn btn-danger" onclick="return confirm('Bu kursu silmek istediğinize emin misiniz?')"  />
+
+</form>

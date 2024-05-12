@@ -1,0 +1,59 @@
+﻿@model Pricing
+
+<div class="row">
+    <div class="col-12">
+        <div class="card border-top border-0 border-4 border-dark">
+            <div class="card-body p-5">
+                <div class="card-title text-center">
+                    <h5 class="mb-5 mt-2 text-dark">Paket Ekle</h5>
+                </div>
+                <hr>
+                <form class="row g-3" method="post">
+                    <div class="col-12">
+                        <label asp-for="Title" class="form-label">Başlık</label>
+                        <input type="text" class="form-control border-start-0" asp-for="Title" placeholder="Başlık">
+                        <span class="text-danger" asp-validation-for="Title"></span>
+                    </div>
+                   
+                    <div class="col-12">
+                        <label asp-for="Description" class="form-label">Açıklama</label>
+                        <input type="text" class="form-control border-start-0" asp-for="Description" placeholder="Açıklama Giriniz">
+                        <span class="text-danger" asp-validation-for="Description"></span>
+                    </div>
+                    <div class="col-6">
+                        <label asp-for="Price" class="form-label">Fiyat</label>
+                        <input type="text" class="form-control border-start-0" asp-for="Price" placeholder="Fiyat Giriniz">
+                        <span class="text-danger" asp-validation-for="Price"></span>
+                    </div>
+                    <div class="col-12">
+                        <label asp-for="StartTime" class="form-label">Başlangıç Tarihi</label>
+                        <input type="date" class="form-control border-start-0" asp-for="Price" placeholder="Tarih Giriniz">
+                        <span class="text-danger" asp-validation-for="StartTime"></span>
+                    </div>
+                    <div class="col-12">
+                        <label asp-for="StopTime" class="form-label">Bitiş Tarihi</label>
+                        <input type="date" class="form-control border-start-0" asp-for="StopTime" placeholder="Tarih Giriniz">
+                        <span class="text-danger" asp-validation-for="StopTime"></span>
+                    </div>
+                    <div class="col-6">
+                        <label asp-for="MonthCount" class="form-label">Süre</label>
+                        <input type="text" class="form-control border-start-0" asp-for="MonthCount" placeholder="Süre Giriniz">
+                        <span class="text-danger" asp-validation-for="MonthCount"></span>
+                    </div>
+                    <div class="col-6">
+                        <label asp-for="DiscountRate" class="form-label">İndirim</label>
+                        <input type="text" class="form-control border-start-0" asp-for="DiscountRate" placeholder="İndirim Oranı">
+                        <span class="text-danger" asp-validation-for="DiscountRate"></span>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-dark btn-lg px-5">Kaydet</button>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
